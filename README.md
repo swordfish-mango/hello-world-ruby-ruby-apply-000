@@ -1,4 +1,4 @@
-2# Hello World
+# Hello World
 
 ## Overview
 
